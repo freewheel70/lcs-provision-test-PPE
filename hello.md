@@ -1,8 +1,3 @@
----
-title: Hi xxx
-author: xxx
-description: Hi xxx.
-ms.author: xxx
----
+# Hello
 
-# Hello xxx
+Extract authors from git commit history

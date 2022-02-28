@@ -31,5 +31,5 @@
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
   "resolve_user_profile_using_github": true,
-  "git_repository_url_open_to_public_contributors": "https://github.com/freewheel70/lcs-provision-test-PPE.git"
+  "git_repository_url_open_to_public_contributors": "https://github.com/freewheel70/lcs-provision-test-PPE"
 }
